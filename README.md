@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### Program languages and technologies that I use
-
-               
+### Program languages and technologies that I use:
 <p >
   <img src="./icons/java.svg" width="32" alt="Java">
   &nbsp;&nbsp;
