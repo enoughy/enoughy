@@ -2,7 +2,13 @@
   <img src="./icons/Sprite-0005.png" width="320" height="320" alt="planet">
 </p>
 
-## Hi there 👋
+## Hi there! My name is Enoughy 
+
+###  About Me
+- 💻 Full-Stack Developer
+- 🔭 Currently working on web applications and pet projects
+- 🌱 Improving my skills in software architecture and cloud technologies
+- ⚡ Interested in backend development, frontend development, and clean cod
 
 ### Program languages and technologies that I use:
 <p>
