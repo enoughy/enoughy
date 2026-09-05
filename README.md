@@ -17,8 +17,8 @@
 - 🌱 Improving my skills in software architecture and cloud technologies
 - ⚡ Interested in backend development, frontend development, and clean cod
 
+
 ### Program languages and technologies that I use:
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=enoughy&langs_count=4)
 <p>
   <img src="./icons/java.svg" width="32" alt="Java">
   &nbsp;&nbsp;
@@ -37,6 +37,7 @@
   <img src="./icons/nvim.svg" width="32" alt="Neovim">
 </p>
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=enoughy&langs_count=4)
 <!--
 **enoughy/enoughy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
