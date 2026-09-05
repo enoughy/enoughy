@@ -1,14 +1,7 @@
 ## Hi there 👋
 
 ### Program languages and technologies that I use
-<img src="./icons/java.svg" width="32" alt="java">
-<img src="./icons/spring.svg" width="32" alt="java">
-<img src="./icons/js.svg" width="32" alt="java">
-<img src="./icons/ts.svg" width="32" alt="java">
-<img src="./icons/react.svg" width="32" alt="java">
-<img src="./icons/next.svg" width="32" alt="java">
-<img src="./icons/docker.svg" width="32" alt="java">
-<img src="./icons/nvim.svg" width="32" alt="java">
+<img src="./icons/java.svg" width="32" alt="java"> <img src="./icons/spring.svg" width="32" alt="java"> <img src="./icons/js.svg" width="32" alt="java"> <img src="./icons/ts.svg" width="32" alt="java"> <img src="./icons/react.svg" width="32" alt="java"> <img src="./icons/next.svg" width="32" alt="java"> <img src="./icons/docker.svg" width="32" alt="java"> <img src="./icons/nvim.svg" width="32" alt="java">
 
 <!--
 **enoughy/enoughy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
