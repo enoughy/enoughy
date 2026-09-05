@@ -1,7 +1,12 @@
+<p aligin="center">
+
+  <img src="./icons/java.svg" width="200" alt="planet">
+</p>
+
 ## Hi there 👋
 
 ### Program languages and technologies that I use:
-<p >
+<p>
   <img src="./icons/java.svg" width="32" alt="Java">
   &nbsp;&nbsp;
   <img src="./icons/spring.svg" width="32" alt="Spring">
