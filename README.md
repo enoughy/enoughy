@@ -1,6 +1,5 @@
 <p aligin="center">
-
-  <img src="./icons/java.svg" width="200" alt="planet">
+  <img src="./icons/Sprite-0005.png width="200" alt="planet">
 </p>
 
 ## Hi there 👋
