@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![java](./icons/java.svg) 
+### Program languages and technologies that I use
+<img src="./icons/java.svg" width="200" alt="Логотип">
 
 <!--
 **enoughy/enoughy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
