@@ -1,4 +1,6 @@
-# ~~ My Profile ~~
+<h1 align="center"> ~~ My Profile ~~ </h1>
+
+
 <p align="center">
   <img src="./icons/Sprite-0005.png" width="320" height="320" alt="planet">
 </p>
