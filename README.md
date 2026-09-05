@@ -1,10 +1,13 @@
 <h1 align="center"> ~~ My Profile ~~ </h1>
 
+<!--
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=enoughy)](https://github.com/stats-organization/github-stats-extended)
-
+-->
+<!--
 <p align="center">
   <img src="./icons/Sprite-0005.png" width="160" height="160" alt="planet">
 </p>
+-->
 
 ## Hi there! My name is Enoughy 
 
@@ -33,6 +36,7 @@
   &nbsp;&nbsp;
   <img src="./icons/nvim.svg" width="32" alt="Neovim">
 </p>
+
 <!--
 **enoughy/enoughy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
