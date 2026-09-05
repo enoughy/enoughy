@@ -1,5 +1,6 @@
 <h1 align="center"> ~~ My Profile ~~ </h1>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=enoughy)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
   <img src="./icons/Sprite-0005.png" width="160" height="160" alt="planet">
@@ -14,6 +15,7 @@
 - ⚡ Interested in backend development, frontend development, and clean cod
 
 ### Program languages and technologies that I use:
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=enoughy&langs_count=4)
 <p>
   <img src="./icons/java.svg" width="32" alt="Java">
   &nbsp;&nbsp;
