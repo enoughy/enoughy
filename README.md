@@ -5,19 +5,19 @@
                
 <p >
   <img src="./icons/java.svg" width="32" alt="Java">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./icons/spring.svg" width="32" alt="Spring">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;  
   <img src="./icons/js.svg" width="32" alt="JavaScript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./icons/ts.svg" width="32" alt="TypeScript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./icons/react.svg" width="32" alt="React">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./icons/next.svg" width="32" alt="Next.js">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./icons/docker.svg" width="32" alt="Docker">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./icons/nvim.svg" width="32" alt="Neovim">
 </p>
 <!--
