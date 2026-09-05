@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./icons/Sprite-0005.png" width="320" height="320" alt="planet">
+  <img src="./icons/Sprite-0005.png" width="160" height="160" alt="planet">
 </p>
 
 ## Hi there! My name is Enoughy 
