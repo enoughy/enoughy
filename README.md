@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./icons/Sprite-0005.png" width="200" alt="planet">
+  <img src="./icons/Sprite-0005.png"  alt="planet">
 </p>
 
 ## Hi there 👋
