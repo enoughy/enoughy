@@ -3,7 +3,7 @@
 ### Program languages and technologies that I use
 
                
-<p align="center">
+<p >
   <img src="./icons/java.svg" width="32" alt="Java">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/spring.svg" width="32" alt="Spring">
